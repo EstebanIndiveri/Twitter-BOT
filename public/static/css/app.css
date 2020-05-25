@@ -1,0 +1,19 @@
+.listado-productos{
+    /* background-color: #FFF; */
+
+        background:rgb(27,42,56);     
+    padding-left: 4rem;
+}
+.contenedor{
+    max-width: 1200px !important;
+    width: 95% !important;
+    padding: 1rem 0 !important;
+    margin: 0 0 !important;
+    padding-left: 1rem;
+
+}
+.bg-white{
+    background-color: rgba(29, 36, 43, 0.94);
+    border-radius: 10px;
+    color:white;
+}
